@@ -1,0 +1,9 @@
+#include<conio.h>
+void terms(void)
+{
+  system("color 0C");
+  SetConsoleTitle(".........TERMS AND CONDITIONS............");
+  printf("\t\t\t\t\t .....Terms And  Conditons.......\n");
+ printf("\nNames of all parties to the agreement, including all adult tenants. It’s important that your rental agreement includes the names of not only you and your main tenant but also all the other adults who will be occupying the premises. This ensures that all adults who will be living on your rental property are responsible for the duties and obligations of the tenant as outlined in the agreement, including the payment of rent. It also means you’ll be able to terminate the rental agreement if any one of the tenants violates the terms of the lease. If you only list one person as a tenant, and any of the other occupants who aren’t listed violates an important term of the lease");
+  printf("\nLimits on occupancy/subleasing. This important provision ensures that only those who have signed the lease, along with their minor children, can live on the rental premises. Tenants will also not be able to sublease the premises to another party without your approval.Security deposits and other fees. Security deposits are often very contentious issues between a landlord and tenant, so it’s important that your rental agreement is very specific about all matters related to the security deposit. This includes not just the amount of the deposit, but issues such as when and how the deposit may be used and when and how the deposit is to be returned. Your agreement should also cover what kinds of fees (for example, cleaning or repair fees) can be deducted from the security deposit. You should also check your state’s laws relating to security deposits, as they may set out certain requirements with which you will need to comply.");
+};
